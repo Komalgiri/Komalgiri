@@ -60,13 +60,13 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
 
  ## Education
- - 📍 **Uttarakhand Technical University**-----------------------**< 2019-2023 >**\
- 📖**Bachelor's of technology-< Information Technology >**
+ - 📍 **Uttarakhand Technical University**-----------------------**< 2021-2025 >**\
+ 📖**Bachelor's of technology-< Computer Science and Engineering >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2017-2019 >**\
+ - 📍 **Kendriya vidhayala Phulera, Jaipur**------------------**< 2019-2021 >**\
    📖**Senior Secondary Schooling-< Intermediate Science >**
  
- - 📍 **Jawahar Navodaya Vidyalaya, Dhanbad**------------------**< 2012-2017 >**\
+ - 📍 **Raceme Public School, Jaipur**------------------**< 2017-2019 >**\
    📖**Secondary Schooling**
  
    
