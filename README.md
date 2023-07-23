@@ -1,5 +1,5 @@
 <!--![download](https://github.com/akankushjnvku/akankushjnvku/assets/118672077/228e7ee4-0894-4005-a09c-de260eb97408)-->
-![](https://camo.githubusercontent.com/4cf6c8c01abe3d6dd673f33c4a05597a690778d4e98b54fc465af40df79334f4/68747470733a2f2f632e74656e6f722e636f6d2f714a35657656732d5f755541414141432f636f64696e672e676966)
+![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
