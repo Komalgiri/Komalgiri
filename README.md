@@ -106,9 +106,9 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/ankush-kumar-06b22b191/)
 [<img src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white&color=black" />](https://medium.com/@ak.ankush2000)
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/akankushjnvku)
-</p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epic Objective" alt="Komal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Epic Objective&show_icons=true&theme=radical" alt="Komal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic Objective&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Epic Objective" alt="Komal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=Epic Objective&show_icons=true&theme=radical" alt="Komal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Epic Objective&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> |
 
 
 
