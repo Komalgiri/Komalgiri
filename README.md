@@ -73,11 +73,11 @@ technologies to meet future requirements.</br>
    
    
  ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
- 📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
+ -  👨‍💻 **Web-Development**---------------------------< Internship >\
+ 📆 sep 2021 - moment\
+📍 **Internsala** - Roorkee, India
    
- -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
+ <!--  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
    📆 Feb,2022 - moment\
    📍 **GirlScript Summer of Code** - Maharashtra, India
    
@@ -87,7 +87,7 @@ technologies to meet future requirements.</br>
    
  -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
    📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India
+   📍 **Internshala** - Roorkee, India-->
 
    </details>
    
