@@ -1,4 +1,4 @@
-![download](https://github.com/akankushjnvku/akankushjnvku/assets/118672077/228e7ee4-0894-4005-a09c-de260eb97408)
+<!--![download](https://github.com/akankushjnvku/akankushjnvku/assets/118672077/228e7ee4-0894-4005-a09c-de260eb97408)-->
 ![](https://user-images.githubusercontent.com/95478989/198955082-6e78ebb5-e1e4-49f9-8d32-6e5af3984dcd.gif)
 
 
