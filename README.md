@@ -39,7 +39,7 @@ technologies to meet future requirements.</br>
 
 
 ### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://user-images.githubusercontent.com/71630336/167283188-f5e9687e-736f-4b1c-8e1d-77b227e008dd.gif">
+<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
 
 - Outlying Aspect Mining
 - Classification
