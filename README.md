@@ -133,18 +133,18 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 <!-- GitHub Streak card -->
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komalgiri&theme=radical&hide_border=false" width="48%" />  
 
-<!-- Contribution graph (alternative, reliable service) -->
-<img src="https://github.com/Komalgiri.png?size=460" width="48%" alt="GitHub Contributions Graph" />
+
 
 </p>
 
 <p align="center">
-✨ Some quick stats:  
-[![Commits](https://img.shields.io/github/commit-activity/m/Komalgiri?color=blue&logo=github)]()  
-[![Pull Requests](https://img.shields.io/github/issues-pr/Komalgiri?color=green&logo=github)]()  
-[![Repositories](https://img.shields.io/github/repos/Komalgiri?color=orange&logo=github)]()  
-[![Followers](https://img.shields.io/github/followers/Komalgiri?color=pink&logo=github)]()
+✨ Some quick stats: <br><br>
+[![Commits](https://img.shields.io/github/commit-activity/m/Komalgiri?color=blue&logo=github)](https://github.com/Komalgiri) &nbsp;&nbsp;
+[![Pull Requests](https://img.shields.io/github/issues-pr/Komalgiri?color=green&logo=github)](https://github.com/Komalgiri/pulls) &nbsp;&nbsp;
+[![Repositories](https://img.shields.io/github/repos/Komalgiri?color=orange&logo=github)](https://github.com/Komalgiri?tab=repositories) &nbsp;&nbsp;
+[![Followers](https://img.shields.io/github/followers/Komalgiri?color=pink&logo=github)](https://github.com/Komalgiri?tab=followers)
 </p>
+
 
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
