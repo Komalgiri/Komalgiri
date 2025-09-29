@@ -102,21 +102,37 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 ---
 
 ## 📫 Connect with Me
+
 <p align="center">
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-giri)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
-[![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/KomalGiri789/)  
-[![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/komalgij2a2)  
-[![HackerRank](https://img.shields.io/badge/-HackerRank-green?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/komalgiri789?hr_r=1)  
-[![Kaggle](https://img.shields.io/badge/-Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Komalgiri)
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/komal-giri)  
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com)  
+[![LeetCode](https://img.shields.io/badge/LeetCode-orange?style=for-the-badge&logo=leetcode&logoColor=white)](https://leetcode.com/KomalGiri789/)  
+[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-darkgreen?style=for-the-badge&logo=geeksforgeeks&logoColor=white)](https://auth.geeksforgeeks.org/user/komalgij2a2)  
+[![HackerRank](https://img.shields.io/badge/HackerRank-2EC866?style=for-the-badge&logo=hackerrank&logoColor=white)](https://www.hackerrank.com/komalgiri789?hr_r=1)  
+[![Kaggle](https://img.shields.io/badge/Kaggle-20BEFF?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Komalgiri)
+
 </p>
+
 
 ---
-
 ## 📊 GitHub Stats
+
 <p align="center">
-<img src="https://github-readme-stats.vercel.app/api?username=Komalgiri&show_icons=true&theme=white" alt="Komal's GitHub Stats" />  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalgiri&theme=black&layout=compact" alt="Top Languages" />
+
+<!-- Main GitHub stats -->
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Komalgiri&show_icons=true&theme=tokyonight&count_private=true" alt="Komal's GitHub Stats" />
+
+<!-- Top languages -->
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalgiri&theme=tokyonight&layout=compact&hide=html,css" alt="Top Languages" />
+
+<!-- GitHub Streak -->
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komalgiri&theme=tokyonight" alt="GitHub Streak" />
+
+<!-- Contribution graph -->
+<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Komalgiri&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+
 </p>
+
 
 [![Readme Quotes](https://quotes-github-readme.vercel.app/api?type=horizontal)](https://github.com/piyushsuthar/github-readme-quotes)
