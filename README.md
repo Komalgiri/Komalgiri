@@ -116,22 +116,34 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 
 
 ---
-## 📊 GitHub Stats
+## 📊 GitHub Stats & Activity Dashboard
 
 <p align="center">
 
-<!-- Main GitHub stats -->
-<img align="center" src="https://github-readme-stats.vercel.app/api?username=Komalgiri&show_icons=true&theme=tokyonight&count_private=true" alt="Komal's GitHub Stats" />
+<!-- Main GitHub stats card -->
+<img src="https://github-readme-stats.vercel.app/api?username=Komalgiri&show_icons=true&theme=radical&count_private=true&hide_title=false" width="48%" />  
 
-<!-- Top languages -->
-<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalgiri&theme=tokyonight&layout=compact&hide=html,css" alt="Top Languages" />
+<!-- Top languages card -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalgiri&layout=compact&theme=radical&hide=html,css" width="48%" />
 
-<!-- GitHub Streak -->
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=Komalgiri&theme=tokyonight" alt="GitHub Streak" />
+</p>
 
-<!-- Contribution graph -->
-<img align="center" src="https://activity-graph.herokuapp.com/graph?username=Komalgiri&theme=react-dark&hide_border=true" alt="Contribution Graph" />
+<p align="center">
 
+<!-- GitHub Streak card -->
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Komalgiri&theme=radical&hide_border=false" width="48%" />  
+
+<!-- Contribution graph (alternative, reliable service) -->
+<img src="https://github.com/Komalgiri.png?size=460" width="48%" alt="GitHub Contributions Graph" />
+
+</p>
+
+<p align="center">
+✨ Some quick stats:  
+[![Commits](https://img.shields.io/github/commit-activity/m/Komalgiri?color=blue&logo=github)]()  
+[![Pull Requests](https://img.shields.io/github/issues-pr/Komalgiri?color=green&logo=github)]()  
+[![Repositories](https://img.shields.io/github/repos/Komalgiri?color=orange&logo=github)]()  
+[![Followers](https://img.shields.io/github/followers/Komalgiri?color=pink&logo=github)]()
 </p>
 
 
