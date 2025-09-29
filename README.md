@@ -137,9 +137,8 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 
 </p>
 
-<p align="center">
-  <img src="https://activity-graph.herokuapp.com/graph?username=Komalgiri&theme=react-dark&hide_border=true" alt="Komal's GitHub activity graph" width="100%">
-</p>
+[![GitHub Contribution Graph](https://ghchart.rshah.org/Komalgiri)](https://github.com/Komalgiri)
+
 
 ### 🚀 Featured Projects
 
@@ -153,9 +152,6 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
   <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight" alt="Komal's WakaTime stats" />
 </p>
 
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komalgiri&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
-</p>
 
 
 
