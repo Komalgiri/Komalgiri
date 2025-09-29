@@ -5,16 +5,27 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### Hi there, I'm [Komal Giri](https://www.linkedin.com/in/komal-giri-52798a265/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+<h1 align="center">Hi there 👋, I'm Komal Giri</h1>
+<p align="center">
+💻 Software Developer | 📱 App & Web Enthusiast | 🌱 Machine Learning Explorer  
+</p>
 
-I am an intermediate back-end developer, graphic and Adobe designer working for the past few years. I am always enthusiastic about new creative projects for which I use my imagination and skill to provide an elegant solution for any project. My main objective is to create beautiful digital products and provide unique design solutions. Always open to challenges that will keep me learning. Looking forward to working on exciting upcoming projects with innovative people.
+<p align="center">
+I’m a <b>Software Developer</b> passionate about building scalable digital products and elegant user experiences.  
+Currently pursuing <b>B.Tech in Computer Science & Engineering</b> (CGPA 8.9) from <a href="https://www.rceroorkee.in/">Roorkee College of Engineering</a>.  
+With hands-on experience in <b>React Native, ReactJS, Node.js, Firebase, and MongoDB</b>, I love working on cross-platform apps and full-stack projects.  
+</p>
 
+<p align="center">
+Beyond code, I’m a <b>graphic & Adobe designer</b> who values the blend of creativity and technology.  
+I’ve interned internationally (Canada) and contributed to impactful projects in healthcare, robotics, and finance.  
+Always excited about <b>AI, gamification, and community-driven tech</b>.  
+</p>
 
-- 💻 {( Currently I am pursuing B.TECH in Computer Science And Engineering at [Roorkee College Of Engineering
-- (https://www.rceroorkee.in/)-Roorkee. )}
-- 🧑‍ {( I have always had the ability to look at things from a different perspective and try to find something new in them. I hope that with every new day, I get more than one chance to learn everything, which will make me very happy. New technologies have always been an inspiration to learn and at the same time get an opportunity to learn something from them. )}
-- 👨🏽‍💻 {( Currently growing my skillset in [Machine Learning](https://www.analyticsvidhya.com/blog/2017/09/common-machine-learning-algorithms/) and [Deep Learning](https://www.ibm.com/in-en/analytics/data-science?utm_content=SRCWW&p1=Search&p4=43700052658080620&p5=e&gclid=CjwKCAjwjtOTBhAvEiwASG4bCOOPlVssk_4G8dh6UR3f61_GTWuGGigy4KQbieXS3AWBz5gug98I-BoCxI8QAvD_BwE&gclsrc=aw.ds). )}
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=Komalgiri&label=Profile%20views&color=32CD32&style=flat" alt="Komalgiri" /> </p>
+<p align="center">
+✨ My mantra: <i>“Build. Learn. Share. Repeat.”</i>  
+</p>
+
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
 ### `Coding Profiles:`
