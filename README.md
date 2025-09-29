@@ -108,7 +108,7 @@ technologies to meet future requirements.</br>
    📍 **Internshala** - Roorkee, India-->
 
    </details>
-### Featured Projects 🚀  
+## Featured Projects 🚀  
 
 **[Mentora](https://github.com/Komalgiri)** – Mental well-being & productivity app  
 - Includes Mentor Support, Self-Care Resources, Mood Tracker & Chatbot.  
@@ -122,87 +122,34 @@ technologies to meet future requirements.</br>
 - User-friendly site offering skill-enhancement courses.  
 - *Stack:* HTML, CSS, JavaScript  
 
-## 🎓Tools and Technologies:
-- **Programming Languages**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>Python</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/python.svg">
-					</td>
-					<td width="25%" align="center">
-						<span><strong>Java</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/java.svg">
-					</td>
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Frontend Development**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td align="center">
-						<span><strong>HTML</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/html-5.svg">
-					</td>
-					<td align="center">
-						<span><strong>CSS</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/css-3.svg">
-					</td>
-					<td align="center">
-						<span><strong>Javascript</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/javascript.svg">
-					</td>
-					<td align="center">
-						<span><strong>Wordpress</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wordpress/wordpress-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>Bootstrap</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/bootstrap.svg">
-					</td>
-					<td align="center">
-						<span><strong>React</strong></span><br/>
-						<img height="64px" width="64px" src="https://cdn.svgporn.com/logos/react.svg">
-					</td><!--
-					<td  align="center">
-						<span><strong>Wix</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/wix/wix-icon.svg">
-					</td>
-					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://miro.medium.com/max/828/1*mn6bOs7s6Qbao15PMNRyOA.png">
-					</td>
-					<td align="center">
-						<span><strong>TypeScript</strong></span><br/>
-						<img height="64px" width="64px" src="https://angular.io/assets/images/logos/angular/angular.svg">
-					</td>-->
-				</tr>
-			</tbody>
-		</table>
-	</center>
-- **Databases**
-	<center>
-		<table>
-			<tbody>
-				<tr>
-					<td width="25%" align="center">
-						<span><strong>MySql</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/mysql/mysql-horizontal.svg">
-					</td><!--
-					<td width="25%" align="center">
-						<span><strong>Hive</strong></span><br/>
-						<img height="64px" width="64px" src="https://www.vectorlogo.zone/logos/apache_hive/apache_hive-icon.svg">
-					</td>
-					-->
-				</tr>
-			</tbody>
-		</table>
-	</center>   
+## 🎓 Tools & Technologies
+
+### **Programming Languages**
+| C++ | Python | Java | DSA |
+| --- | --- | --- | --- |
+| <img src="https://cdn.svgporn.com/logos/c-plusplus.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/python.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/java.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50"> |
+
+### **Libraries / Frameworks**
+| React JS | React Native | Node JS | Django | NumPy | Jupyter Notebook |
+| --- | --- | --- | --- | --- | --- |
+| <img src="https://cdn.svgporn.com/logos/react.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/django.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50"> | <img src="https://cdn.worldvectorlogo.com/logos/jupyter.svg" width="50"> |
+
+### **Tools / Platforms**
+| Figma | Canva | Jira | MS Office | UI/UX |
+| --- | --- | --- | --- | --- |
+| <img src="https://cdn.svgporn.com/logos/figma.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/canva.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/jira.svg" width="50"> | <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2019.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/User_interface_design_icon.svg" width="50"> |
+
+### **Databases**
+| SQL | PostgreSQL | MongoDB |
+| --- | --- | --- |
+| <img src="https://cdn.svgporn.com/logos/mysql.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/postgresql.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/mongodb.svg" width="50"> |
+
+### **Soft Skills**
+- Problem-solving  
+- Communication  
+- Team Collaboration  
+- Adaptability
+
 <!--### `💻 Languages and Tools`<img  alt="Coding" width="35" src="https://user-images.githubusercontent.com/71630336/167283646-f631f134-0457-4760-a2e8-5801d4c6a915.gif">:   
    
 <<p align="left"> <a href="https://developer.android.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.cprogramming.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cpp/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> </a> <a href="https://expressjs.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://postman.com" target="_blank"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://reactjs.org/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> </a> <a href="https://reactnative.dev/" target="_blank"> <img src="https://reactnative.dev/img/header_logo.svg" alt="reactnative" width="40" height="40"/> </a> <a href="https://sass-lang.com" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40"/> </a> <a href="https://tailwindcss.com/" target="_blank"> <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> </a> </p>-->
