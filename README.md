@@ -138,12 +138,25 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 </p>
 
 <p align="center">
-✨ Some quick stats: <br><br>
-[![Commits](https://img.shields.io/github/commit-activity/m/Komalgiri?color=blue&logo=github)](https://github.com/Komalgiri) &nbsp;&nbsp;
-[![Pull Requests](https://img.shields.io/github/issues-pr/Komalgiri?color=green&logo=github)](https://github.com/Komalgiri/pulls) &nbsp;&nbsp;
-[![Repositories](https://img.shields.io/github/repos/Komalgiri?color=orange&logo=github)](https://github.com/Komalgiri?tab=repositories) &nbsp;&nbsp;
-[![Followers](https://img.shields.io/github/followers/Komalgiri?color=pink&logo=github)](https://github.com/Komalgiri?tab=followers)
+  <img src="https://activity-graph.herokuapp.com/graph?username=Komalgiri&theme=react-dark&hide_border=true" alt="Komal's GitHub activity graph" width="100%">
 </p>
+
+### 🚀 Featured Projects
+
+| Project | Description | Tech Stack | GIF/Screenshot |
+| ------- | ----------- | ---------- | -------------- |
+| [Mentora](https://github.com/Komalgiri) | Mental well-being & productivity app | React Native, ReactJS, Firebase | ![Mentora Demo](link-to-gif.gif) |
+| [Stock Monitoring Platform](https://github.com/Komalgiri/Stock-Monitoring-Platform) | Real-time stock dashboard | Python, TypeScript, HTML, CSS | ![Stock Demo](link-to-gif.gif) |
+| [Kid-Amy](https://github.com/Komalgiri/eLearning-KID-AMY) | E-learning platform | HTML, CSS, JavaScript | ![Kid-Amy Demo](link-to-gif.gif) |
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight" alt="Komal's WakaTime stats" />
+</p>
+
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Komalgiri&theme=tokyonight&hide_border=false" alt="GitHub Streak" />
+</p>
+
 
 
 
