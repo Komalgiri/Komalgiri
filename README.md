@@ -57,14 +57,34 @@ Always excited about <b>AI, gamification, and community-driven tech</b>.
 technologies to meet future requirements.</br>
 
 
-### `My Reseach Interest`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283558-6c53d514-1a4a-4ad0-acd8-33d97ba5ac07.gif">:
-<img align="right" alt="Coding" width="400" src="https://camo.githubusercontent.com/e20822b4282c07ffd010cd05f855a6561d3b62358ca9e607e4901288dd748fcb/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f323133313939332f73637265656e73686f74732f343934383733362f74686f75676874776f726b732d6769665f6472696262626c652e676966">
+## 💼 Professional Experience
 
-- Outlying Aspect Mining
-- Classification
-- Clustering
-- Anomaly Detection
-- Similarity Measure
+### **Software Developer** – Creditor Academy  
+*May 2025 – Present*  
+- Developed and optimized frontend interfaces using **ReactJS** with a focus on clean UI and responsive design.  
+- Built and integrated **REST APIs** to connect backend services with the frontend for seamless data flow.  
+- Implemented **gamification features** to improve user engagement and interaction.  
+
+**Skills Developed:** ReactJS, Node.js, REST APIs, Frontend–Backend Integration, Gamification, UI/UX Design  
+
+---
+
+### **Internship** – VanTech Med (Remote, Vancouver, BC)  
+*Aug 2024 – Apr 2025*  
+- Worked extensively on both **Android** and **iOS** app development, focusing on creating a cross-platform healthcare application.  
+- Designed and developed a robust app aimed at analyzing health patterns and offering solutions for health issues, implementing **5+ key features** for data analysis.  
+
+**Skills Developed:** ReactJS, Android Studio, Firebase, Java, REST APIs, Figma  
+
+---
+
+### **Internship** – Uma Robotics  
+*Feb 2024 – Apr 2024*  
+- Conducted in-depth software analysis and performed **50+ software tests** to ensure system reliability.  
+- Contributed to the development of a software solution that optimized robotic system usage for industries, enhancing **task efficiency by 40%**.  
+
+**Skills Developed:** React Native, Node.js, MongoDB
+
 
  ### `I am open to`<img  alt="Coding" width="50" src="https://user-images.githubusercontent.com/71630336/167283483-1b2b2630-f02a-487b-823a-839d3739452a.gif">:
 
@@ -87,27 +107,9 @@ technologies to meet future requirements.</br>
  - 📍 **Raceme Public School, Jaipur**------------------**< 2017-2019 >**\
    📖**Secondary Schooling**
  
-   
 
-   
- ## Experience
- -  👨‍💻 **Web-Development**---------------------------< Internship >\
- 📆 sep 2021 - moment\
-📍 **Internsala** - Roorkee, India
-   
- <!--  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
-   📆 Feb,2022 - moment\
-   📍 **GirlScript Summer of Code** - Maharashtra, India
-   
- -  👨‍💻 **Owner**------------------------------------------< Founder >\
-   📆 Oct,2020 - moment\
-   📍 **Mackph.com** - Roorkee, India
-   
- -  👨‍💻 **Internshala Student Partner (ISP 16)**-------------< Part Time >\
-   📆 Dec,2019 - Jun,2020\
-   📍 **Internshala** - Roorkee, India-->
 
-   </details>
+  
 ## Featured Projects 🚀  
 
 **[Mentora](https://github.com/Komalgiri)** – Mental well-being & productivity app  
@@ -135,7 +137,7 @@ technologies to meet future requirements.</br>
 | <img src="https://cdn.svgporn.com/logos/react.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/react.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/nodejs.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/django.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/3/31/NumPy_logo_2020.svg" width="50"> | <img src="https://cdn.worldvectorlogo.com/logos/jupyter.svg" width="50"> |
 
 ### **Tools / Platforms**
-| Figma | Canva | Jira | MS Office | UI/UX |
+| Figma | Canva | Jira | Firebase| UI/UX |
 | --- | --- | --- | --- | --- |
 | <img src="https://cdn.svgporn.com/logos/figma.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/canva.svg" width="50"> | <img src="https://cdn.svgporn.com/logos/jira.svg" width="50"> | <img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2019.svg" width="50"> | <img src="https://upload.wikimedia.org/wikipedia/commons/1/1f/User_interface_design_icon.svg" width="50"> |
 
