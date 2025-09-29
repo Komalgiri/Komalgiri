@@ -148,9 +148,9 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 | [Stock Monitoring Platform](https://github.com/Komalgiri/Stock-Monitoring-Platform) | Real-time stock dashboard | Python, TypeScript, HTML, CSS | ![Stock Demo](link-to-gif.gif) |
 | [Kid-Amy](https://github.com/Komalgiri/eLearning-KID-AMY) | E-learning platform | HTML, CSS, JavaScript | ![Kid-Amy Demo](link-to-gif.gif) |
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Anonymous User&theme=tokyonight" alt="Komal's WakaTime stats" />
-</p>
+[![Pull Requests](https://img.shields.io/github/issues-pr/Komalgiri?color=green&logo=github)](https://github.com/Komalgiri/pulls)
+[![Issues](https://img.shields.io/github/issues/Komalgiri?color=red&logo=github)](https://github.com/Komalgiri/issues)
+
 
 
 
