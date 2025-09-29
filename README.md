@@ -28,6 +28,13 @@ Always excited about <b>AI, gamification, and community-driven tech</b>.
 
 <img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/2646423/screenshots/5507196/computer.gif">
 
+### About Me  
+- 💻 Software Developer at **Creditor Academy** (ReactJS, Node.js, REST APIs, Gamification).  
+- 🌍 Internship experience at **VanTech Med (Canada)** and **Uma Robotics (India)**.  
+- 🌱 Exploring **Machine Learning & Deep Learning** alongside web and mobile dev.  
+- 🏆 2nd Prize winner at UTKARSH 1.0 State-Level Hackathon (AI-powered app).  
+- 🎨 I also do **graphic & Adobe design**, balancing creativity with code.  
+
 ### `Coding Profiles:`
 [![LeetCode](https://img.shields.io/badge/-LeetCode-orange?style=flat&amp;labelColor=black&amp;logo=leetcode&amp;logoColor=orange)](https://leetcode.com/KomalGiri789/)
 [![GeeksforGeeks](https://img.shields.io/badge/-GeeksforGeeks-darkgreen?style=flat&amp;labelColor=white&amp;logo=geeksforgeeks&amp;logoColor=darkgreen)](https://auth.geeksforgeeks.org/user/komalgij2a2)
@@ -81,7 +88,7 @@ technologies to meet future requirements.</br>
    📖**Secondary Schooling**
  
    
-   
+
    
  ## Experience
  -  👨‍💻 **Web-Development**---------------------------< Internship >\
@@ -101,6 +108,19 @@ technologies to meet future requirements.</br>
    📍 **Internshala** - Roorkee, India-->
 
    </details>
+### Featured Projects 🚀  
+
+**[Mentora](https://github.com/Komalgiri)** – Mental well-being & productivity app  
+- Includes Mentor Support, Self-Care Resources, Mood Tracker & Chatbot.  
+- *Stack:* React Native, ReactJS, Firebase, Netlify  
+
+**[Stock Monitoring Platform](https://github.com/Komalgiri/Stock-Monitoring-Platform)** – Track stock prices in real-time  
+- Dashboard with live updates for 100+ stocks & secure authentication.  
+- *Stack:* Python, TypeScript, HTML, CSS  
+
+**[Kid-Amy](https://github.com/Komalgiri/eLearning-KID-AMY)** – E-learning platform  
+- User-friendly site offering skill-enhancement courses.  
+- *Stack:* HTML, CSS, JavaScript  
 
 ## 🎓Tools and Technologies:
 - **Programming Languages**
