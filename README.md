@@ -137,7 +137,7 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 
 </p>
 
-[![GitHub Contribution Graph](https://ghchart.rshah.org/Komalgiri)](https://github.com/Komalgiri)
+
 
 
 ### 🚀 Featured Projects
@@ -149,7 +149,7 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 | [Kid-Amy](https://github.com/Komalgiri/eLearning-KID-AMY) | E-learning platform | HTML, CSS, JavaScript | ![Kid-Amy Demo](link-to-gif.gif) |
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=your-wakatime-username&theme=tokyonight" alt="Komal's WakaTime stats" />
+  <img src="https://github-readme-stats.vercel.app/api/wakatime?username=Komalgiri&theme=tokyonight" alt="Komal's WakaTime stats" />
 </p>
 
 
