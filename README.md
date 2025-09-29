@@ -148,8 +148,8 @@ Excited about <b>AI, gamification, and community-driven tech</b>.
 | [Stock Monitoring Platform](https://github.com/Komalgiri/Stock-Monitoring-Platform) | Real-time stock dashboard | Python, TypeScript, HTML, CSS | ![Stock Demo](link-to-gif.gif) |
 | [Kid-Amy](https://github.com/Komalgiri/eLearning-KID-AMY) | E-learning platform | HTML, CSS, JavaScript | ![Kid-Amy Demo](link-to-gif.gif) |
 
-[![Pull Requests](https://img.shields.io/github/issues-pr/Komalgiri?color=green&logo=github)](https://github.com/Komalgiri/pulls)
-[![Issues](https://img.shields.io/github/issues/Komalgiri?color=red&logo=github)](https://github.com/Komalgiri/issues)
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=Komalgiri&show_icons=true&theme=radical" />
+<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Komalgiri&layout=compact&theme=radical" />
 
 
 
